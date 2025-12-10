@@ -12,3 +12,6 @@
 
 # png files
 *.png
+
+# model
+*.h5
